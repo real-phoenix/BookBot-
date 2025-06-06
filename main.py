@@ -8,13 +8,13 @@ def main():
         sys.exit(1)
 
     file_path = sys.argv[1]
-    # print("============ BOOKBOT ============")
-    # print("Analyzing book found at books/frankenstein.txt...")
-    # print("----------- Word Count ----------")
-    # print(f"Found {get_num_words(file_path)} total words")
-    # print("--------- Character Count -------")
+    print("============ BOOKBOT ============")
+    print("Analyzing book found at books/frankenstein.txt...")
+    print("----------- Word Count ----------")
+    print(f"Found {get_num_words(file_path)} total words")
+    print("--------- Character Count -------")
     count_chars(file_path)
-    # print("============= END ===============")
+    print("============= END ===============")
 
 if __name__ =="__main__": 
     main()
