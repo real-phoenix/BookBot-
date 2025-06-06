@@ -1,2 +1,3 @@
-# BookBot-
-Creating a bookbot as a part of learning on Fri 6th June 2025, bootdev.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
