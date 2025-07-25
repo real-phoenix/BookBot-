@@ -21,8 +21,9 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ```bash
 git clone https://github.com/your-username/bookbot.git
-cd bookbot
+cd bookbot```
 
 ### 2. Run the Scripts
 ``` bash
-python main.py
+python main.py```
+---
