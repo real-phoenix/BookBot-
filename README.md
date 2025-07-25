@@ -15,8 +15,6 @@ BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
 ## 🛠️ How to Clone and Run It
 
-## 🛠️ How to Clone and Run It
-
 ```bash
 # 1. Clone the Repository
 git clone https://github.com/your-username/bookbot.git
