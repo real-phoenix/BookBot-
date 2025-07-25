@@ -23,5 +23,5 @@ cd bookbot
 
 2. Run the Script
 ```bash
-python main.py
+python main.py <path-to-text-file>
 ```
