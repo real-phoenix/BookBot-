@@ -2,7 +2,7 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-BookBot is a Python program that analyzes novels and prints a statistical report of the word and character usage found within.
+**BookBot** is a Python program that analyzes novels and prints a statistical report of the word and character usage found within.
 
 ---
 
@@ -21,12 +21,8 @@ BookBot is a Python program that analyzes novels and prints a statistical report
 
 ```bash
 git clone https://github.com/your-username/bookbot.git
-cd bookbot```
+cd bookbot
 
-### 2. Run the Script 
-
-```
+### 2. Run the Scripts
+``` bash
 python main.py
-```
-
-
